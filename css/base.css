@@ -1,0 +1,14 @@
+/* importacion de fuentes,
+colores (escribir la paleta de colores y asignar a --var)
+:root {
+    --main-color: #000;
+
+  }
+etiqeutas nativas(tama;os y colores y feuntes) */
+/* ejemplo:
+:root {
+  --main-bg-color: pink;
+}
+
+body {
+  background-color: var(--main-bg-color); */
