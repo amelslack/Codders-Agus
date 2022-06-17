@@ -1,14 +1,23 @@
-/* importacion de fuentes,
-colores (escribir la paleta de colores y asignar a --var)
+/* importacion de fuentes, */
+/* colores (escribir la paleta de colores y asignar a --var) */
 :root {
-    --main-color: #000;
-
+    --main-color-green: #006241;
+    --main-color-white: #ffffff;
+    --main-color-black: #000000;
+    --main-color-gray: #999999;
+    --h3-background-green: #1e3932;
   }
-etiqeutas nativas(tama;os y colores y feuntes) */
-/* ejemplo:
+
+/* etiqeutas nativas(tamaños y colores y feuntes)  */
+
+
+
+
+/* 
+* ejemplo:
 :root {
   --main-bg-color: pink;
 }
 
 body {
-  background-color: var(--main-bg-color); */
+  background-color: var(--main-bg-color); */ */
