@@ -21,7 +21,7 @@
     *img
     *listas
     *contacto
-## crar todas las clases en html [ EN PROCESO ]
+## crar todas las clases en html [ EN PROCESO]
     *home
     *pag1
     *pag2
