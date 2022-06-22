@@ -10,7 +10,7 @@
     *pag2 [_agus HECHO]
     *pag3 [_agus HECHO]
     *styles [_agus HECHO]
-## descargar img y organizarlas en carpetas
+## descargar img y organizarlas en carpetas [ HECHO ]
     *home
     *pag1
     *pag2
