@@ -11,10 +11,10 @@
     *pag3 [_agus HECHO]
     *styles [_agus HECHO]
 ## descargar img y organizarlas en carpetas [ HECHO ]
-    *home
-    *pag1
-    *pag2
-    *pag3    
+    *home [_willy HECHO]
+    *pag1 [_willy HECHO]
+    *pag2 [_willy HECHO]
+    *pag3 [_willy HECHO]
 ## ingresar contenido en html:  [ EN PROCESO ]
     *parrafos
     *titulos
