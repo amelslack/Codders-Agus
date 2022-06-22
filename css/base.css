@@ -1,10 +1,32 @@
-/* importacion de fuentes, */
-/* colores (escribir la paleta de colores y asignar a --var) */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
 :root {
     --main-color-green: #006241;
-    --main-color-white: #ffffff;
+    --main-backcolor-white: #ffffff;
     --main-color-black: #000000;
     --main-color-gray: #999999;
     --h3-background-green: #1e3932;
   };
+  
+  *{
+    box-sizing: border-box;
+    font-family:'open sans', 'arial', 'sans-serif';
+    font-weight: 400;
+    padding: 0;
+    margin: 0;
+  }
+  h3{
+    font-family:'open sans', 'arial', 'sans-serif';
+    font-weight: 400;
+  }
+  p{
+    font-family:'open sans', 'arial', 'sans-serif';
+    font-weight: 100;
+  }
+
+
+
+
+
+
   /* etiqeutas nativas(tamaños y colores y feuntes);  */

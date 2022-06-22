@@ -26,7 +26,7 @@
     *pag1
     *pag2
     *pag3
-## crear paleta de colores en css y asignarle variables
+## crear paleta de colores en css y asignarle variables [EN PROCESO]
     *en archivo base.css
 ## importar fuentes en css
     *en archivo base.css
