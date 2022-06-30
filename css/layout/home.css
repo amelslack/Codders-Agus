@@ -1,11 +1,7 @@
-_section{
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 
-};
+.home_img{
+    width: 30rem;
+    height: auto;
+}
 
-img{
-    width: 50%;
-};
+/* hacer el footer con flex box */
