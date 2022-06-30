@@ -45,6 +45,9 @@
     *pag1
     *pag2
     *pag3
+## crear el Nav y Footer 
+    *nav
+    *footer
 ## generar experiencia de usuario (todos los :hover)
     *home
     *pag1
