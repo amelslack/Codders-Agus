@@ -26,9 +26,9 @@
     *pag1
     *pag2
     *pag3
-## crear paleta de colores en css y asignarle variables [EN PROCESO]
+## crear paleta de colores en css y asignarle variables [ HECHO ]
     *en archivo base.css
-## importar fuentes en css
+## importar fuentes en css [ HECHO ]
     *en archivo base.css
 ## incorporar las etiquetas nativas css en cada pagina:
     *home
